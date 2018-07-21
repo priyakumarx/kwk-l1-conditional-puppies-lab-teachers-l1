@@ -14,7 +14,7 @@ def less_puppies(number_puppies)
     puts "Good Job!"
   else number_puppies = 3
     puts 'Slow Down!'
-  else number_puppies > 3
+  elseif 
     puts "Back on Animal Restriction!"
   end
 end
