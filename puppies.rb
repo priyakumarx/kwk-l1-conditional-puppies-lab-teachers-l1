@@ -5,5 +5,3 @@ def no_puppies
   else
   puts "Well Done, Rachel!"
 end
-
-no_puppies(2)
