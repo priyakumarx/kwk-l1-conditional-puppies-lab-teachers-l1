@@ -2,7 +2,7 @@
 def no_puppies(number_puppies)
   if  number_puppies > 0
     puts "No more puppies!"
- elseif
+  else
   puts "Well Done, Rachel!"
 end
 
